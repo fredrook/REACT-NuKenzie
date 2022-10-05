@@ -4,7 +4,7 @@
 
 </div>
 <h1 style='color: #00A48B'>NuKenzie</h1>
-<h2 style='color: #00A48B'>Primeiro Projeto Front-End Feito em REACT</h2>
+<h2 style='color: #00A48B'>Meu primeiro Projeto Front-End Feito em REACT</h2>
 
 <p>O NuKenzie é um projeto feito para inserir valores, desenvolvido para ser um organograma de entrada e saída de valores financeiros, afim de registrar todo seus ganhos e gastos.
 
